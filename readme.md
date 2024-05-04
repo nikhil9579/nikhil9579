@@ -104,7 +104,7 @@
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=nikhil9579&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nikhil9579/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=nikhil9579&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nikhil9579/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=nikhil9579&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nikhil9579/web-projects)
+[![Furnishop Projects](https://github-readme-stats.vercel.app/api/pin/?username=nikhil9579&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nikhil9579/furnishop)
 [![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=nikhil9579&repo=nikhil9579&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/nikhil9579/nikhil9579)
 
 <p align="left">
