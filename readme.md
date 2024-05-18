@@ -11,7 +11,9 @@
 </p>
 
  -->
-
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25617%26project%3D%26in=0)](https://codetime.dev)
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25617%26project%3D%26in=0">
+https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25617%26project%3D%26in=0
 <a href="https://komarev.com/ghpvc/?username=nikhil9579">
   <img align="right" src="https://komarev.com/ghpvc/?username=nikhil9579&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
